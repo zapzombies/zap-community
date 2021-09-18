@@ -10,11 +10,14 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Where did the bug occur**
+What map/lobby/in what context did the bug occur 
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+2. Buy '....'
+3. Open '....'
 4. See error
 
 **Expected behavior**
